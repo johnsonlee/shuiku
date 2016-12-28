@@ -2,5 +2,5 @@
 
 水库论坛微信公众号：
 
-![](assets/qrcode-shuiku-net.jpg)
+![水库论坛微信公众号](http://open.weixin.qq.com/qr/code/?username=Shuiku-net)
 
